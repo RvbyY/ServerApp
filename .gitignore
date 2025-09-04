@@ -1,0 +1,10 @@
+﻿# Build outputs - don't commit these
+*.exe
+*.dll
+*.pdb
+bin/
+obj/
+publish/
+release/
+*.deps.json
+*.runtimeconfig.json
