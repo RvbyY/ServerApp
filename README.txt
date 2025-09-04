@@ -1,0 +1,1 @@
+unzip MyApp.zip and move .exe file in root (with scripts folder)
