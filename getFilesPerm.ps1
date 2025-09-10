@@ -15,4 +15,10 @@ function getFilePerm
     }
 }
 
-getFilePerm
+function main
+{
+    getFilePerm
+    return
+}
+
+main
