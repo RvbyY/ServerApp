@@ -202,7 +202,7 @@ function ADMain
     ListAdmin
     ListAdminDisabled
     ListServices
-    TestUserCredentials
+    # TestUserCredentials
     CheckSpooler
     CheckLSA
     CheckKerberos
