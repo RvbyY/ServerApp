@@ -172,8 +172,8 @@ function txtToHTML {
             box-shadow: 0 0 20px rgba(0,0,0,0.1);
         }
         h1 {
-            color: #2c3e50;
-            border-bottom: 3px solid rgb(177, 53, 123);
+            color: rgb(163, 37, 159);
+            border-bottom: 3px solid rgba(29, 13, 60, 1);
             padding-bottom: 10px;
         }
         .metadata {

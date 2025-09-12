@@ -199,13 +199,13 @@ Main function of active directory script
 #>
 function ADMain
 {
-    ListAdmin
+    #ListAdmin
     ListAdminDisabled
     ListServices
     # TestUserCredentials
     CheckSpooler
     CheckLSA
-    CheckKerberos
+    #CheckKerberos
     listInstalledService
     CheckLAPS
     HideUsername
